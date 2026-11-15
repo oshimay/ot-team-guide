@@ -9,6 +9,7 @@ Git for Windows を公式のページから入れます。
 
 ターミナルで、名前とメールアドレスを設定します。
 メールアドレスは、GitHub の noreply のアドレスを使います。
+設定したら `git config --global --list` で確かめます。
 
 ## 3. VS Code を入れる
 
