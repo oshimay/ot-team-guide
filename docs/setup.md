@@ -13,5 +13,5 @@ Git for Windows を公式のページから入れます。
 
 ## 3. VS Code を入れる
 
-VS Code を公式のページから入れます。
+VS Code を公式のページから入れます（Mac は zip を展開してアプリケーションへ移す）。
 日本語の表示にする拡張機能（Japanese Language Pack）も入れます。
